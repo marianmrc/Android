@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">TemaCurs</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="add_f2a2">ADD F2A2</string>
+    <string name="replace_f2a2_with_f3a2">Replace F2A2 with F3A2</string>
+    <string name="go_back_to_f1a2">Go back to F1A2</string>
+    <string name="close_activity">Close Activity</string>
+    <string name="f1a1">F1A1</string>
+    <string name="f1a2">F1A2</string>
+    <string name="f2a2">F2A2</string>
+    <string name="f3a2">F3A2</string>
 </resources>
